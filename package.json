@@ -1,0 +1,15 @@
+{
+  "name": "s3-aws-direct-upload",
+  "version": "1.0.0",
+  "description": "s3-upload-direct",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yogya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
